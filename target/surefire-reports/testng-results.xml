@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-23T14:30:38 IST" name="Suite" finished-at="2022-01-23T14:30:38 IST" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2022-01-23T14:30:38 IST" name="Test" finished-at="2022-01-23T14:30:38 IST" duration-ms="67">
+      <class name="jaimavenAuto.AppiumTest">
+        <test-method signature="ios()[pri:0, instance:jaimavenAuto.AppiumTest@353d0772]" started-at="2022-01-23T14:30:38 IST" name="ios" finished-at="2022-01-23T14:30:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ios -->
+        <test-method signature="nativeapps()[pri:0, instance:jaimavenAuto.AppiumTest@353d0772]" started-at="2022-01-23T14:30:38 IST" name="nativeapps" finished-at="2022-01-23T14:30:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeapps -->
+      </class> <!-- jaimavenAuto.AppiumTest -->
+      <class name="jaimavenAuto.SeleniumTest">
+        <test-method signature="webelement()[pri:0, instance:jaimavenAuto.SeleniumTest@70e8f8e]" started-at="2022-01-23T14:30:38 IST" name="webelement" finished-at="2022-01-23T14:30:38 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webelement -->
+      </class> <!-- jaimavenAuto.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
